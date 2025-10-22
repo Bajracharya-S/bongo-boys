@@ -8,7 +8,7 @@ complexity and optimization needs.
 To ensure organized project management, all tasks, issues, milestones, ideas, and planned
 improvements must be documented in the tasks.md file located within the docs/ directory. This will
 serve as a central reference for tracking development progress, prioritizing work, and maintaining
-clarity throughout the lifecycle of the project. 
+clarity throughout the lifecycle of the project.
 
 The generated images for the motion of animated GIF should be located inside docs/ directory.
 

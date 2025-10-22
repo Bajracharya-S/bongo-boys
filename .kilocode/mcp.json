@@ -1,0 +1,9 @@
+{"mcpServers":{
+    "browser":{
+        "command":"browser-mcp",
+        "args":[
+            "--url",
+            "https://www.google.com"
+        ]
+    }
+}}
